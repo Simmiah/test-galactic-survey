@@ -1,6 +1,5 @@
-# Author: Rosalyn Goh
-# Created: May 7, 2013
-# Last Modified:
+To use this repository just download and run driver.bat file.  You can also run each test
+script individually.
 
 This miniature automation framework was a way for me to learn some basic automation framework concepts.
 It utilizes some ideas from data driven, to keyword, to page object framework ideas to test a basic google form.
