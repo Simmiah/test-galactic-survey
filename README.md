@@ -1,5 +1,8 @@
 To use this repository just download and run driver.bat file.  You can also run each test
-script individually.
+script individually.  Works with Ruby 2.0 and must have Watir and google-drive ruby gem 
+installed.
+
+For information on Watir go to this link:  http://watir.com/
 
 This miniature automation framework was a way for me to learn some basic automation framework concepts.
 It utilizes some ideas from data driven, to keyword, to page object framework ideas to test a basic google form.
