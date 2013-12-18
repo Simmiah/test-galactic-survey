@@ -6,10 +6,10 @@
 # Script also takes page shots of each survey page
 # Run on testcase 6 in data
 
-require '.\pages\mainpage.rb'
-require '.\pages\surveypageone.rb'
-require '.\pages\surveypagetwo.rb'
-require '.\pages\surveypagethree.rb'
+require './pages/mainpage.rb'
+require './pages/surveypageone.rb'
+require './pages/surveypagetwo.rb'
+require './pages/surveypagethree.rb'
 
 # Make all Page Objects
 b = MainPage.new

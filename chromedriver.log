@@ -1,0 +1,48 @@
+[0.000][INFO]:      ChromeDriver 26.0.1383.0 /usr/local/bin/chromedriver
+[0.241][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.detach": true,
+   "chromeOptions": {
+      "detach": true
+   },
+   "cssSelectorsEnabled": true,
+   "javascriptEnabled": true,
+   "nativeEvents": false,
+   "platform": "ANY",
+   "rotatable": false,
+   "takesScreenshot": false,
+   "version": ""
+}
+
+[0.242][INFO]:      Using named testing interface
+[0.789][INFO]:      Connected to Chrome successfully. Version: 31.0.1650.63
+[0.795][FINE]:      Command received (/session/6649544003b7dab88441c2d79e525974)
+[0.795][FINE]:      Command finished (/session/6649544003b7dab88441c2d79e525974) with response {
+   "sessionId": "6649544003b7dab88441c2d79e525974",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "26.0.1383.0",
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "mac",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "31.0.1650.63",
+      "webStorageEnabled": true
+   }
+}
+
+[0.798][FINE]:      Command received (/session/6649544003b7dab88441c2d79e525974/url) with params {
+   "url": "https://docs.google.com/forms/d/1l7XjlXQRnyNk-qMUhuprYs9uKpg9fyOQNXZDpHHeUH8/viewform"
+}
+
+[0.798][FINER]:     Waiting for all views to stop loading...
+[0.798][FINER]:     Done waiting for all views to stop loading

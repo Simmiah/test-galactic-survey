@@ -5,9 +5,9 @@
 # This script inputs all fields in survey to allow for verification of data input
 # Run on testcases 1-4 on data files
 
-require '.\pages\mainpage.rb'
-require '.\pages\surveypageone.rb'
-require '.\pages\surveypagetwo.rb'
+require './pages/mainpage.rb'
+require './pages/surveypageone.rb'
+require './pages/surveypagetwo.rb'
 
 # Make all Page Objects
 b = MainPage.new
