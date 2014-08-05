@@ -4,5 +4,5 @@ Desktop.ini
 # Mac 
 .DS_Store
 
-# Chromedriver logs
-chromedriver.log
+# Log files
+*.log
