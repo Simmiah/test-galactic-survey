@@ -6,3 +6,6 @@ Desktop.ini
 
 # Log files
 *.log
+
+# Image files created by Chromedriver
+*.png
