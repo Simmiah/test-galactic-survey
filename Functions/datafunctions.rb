@@ -40,7 +40,7 @@ module DataStuff
 	def comparedataone(formtext1,formtext2,radiocheck)
 		
 		# Connect to Google Spreadsheet and gets Data
-		session = GoogleDrive.login("rosalyntest@gmail.com", "Kiana5852")
+		session = GoogleDrive.login("rosalyntest1@gmail.com", "para91bulyre")
 		sheet = session.spreadsheet_by_url('https://docs.google.com/spreadsheet/ccc?key=0AqmxR49Mk_X6dHVYbmpPaUVSUmxqNVg5clc0ajdib0E#gid=0').worksheets[0]
 		
 		# Page One Data Instance Variables
@@ -76,7 +76,7 @@ module DataStuff
 	# Example: pageobject.CompareDataOne(pageobject.text1data,pageobject.text2data,pageobject.radio)
 	def comparedatatwo(formtext1,formtextarea1)
 		# Connect to Google Spreadsheet and Gets Data
-		session = GoogleDrive.login("rosalyntest@gmail.com", "Kiana5852")
+		session = GoogleDrive.login("rosalyntest1@gmail.com", "para91bulyre")
 		sheet = session.spreadsheet_by_url('https://docs.google.com/spreadsheet/ccc?key=0AqmxR49Mk_X6dHVYbmpPaUVSUmxqNVg5clc0ajdib0E#gid=0').worksheets[0]
 		
 		# Page Two Data Instance Variables
