@@ -19,6 +19,7 @@ TESTED FORM
 
 Google Survey Url: https://docs.google.com/forms/d/1l7XjlXQRnyNk-qMUhuprYs9uKpg9fyOQNXZDpHHeUH8/viewform
 
+(Clear this out before running any tests)
 Google Survey Spreadsheet: https://docs.google.com/spreadsheet/ccc?key=0AqmxR49Mk_X6dHVYbmpPaUVSUmxqNVg5clc0ajdib0E#gid=0
 
 TO CREATE A NEW PAGE USING MY FRAMEWORK
