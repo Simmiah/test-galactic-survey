@@ -1,6 +1,7 @@
-To use this repository just download and run driver.bat file.  You can also run each test
-script individually.  Works with Ruby 2.0.0-p353 and must have Watir and google-drive ruby gem 
-installed.
+To use this repository just download and run driver.bat file on windows or run driver.rb from mac.  You can also run each test
+script individually.  
+
+Works with Ruby 2.0.0-p353.  Gems are managed by bundler, otherwise install the gems as listed in the gemfile.
 
 For information on Watir go to this link:  http://watir.com/
 
