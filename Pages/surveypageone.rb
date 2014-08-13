@@ -74,7 +74,3 @@ class SurveyPageOne < MainPage
 		end
 	end
 end
-
-
-
-

@@ -36,4 +36,3 @@ class SurveyPageTwo < MainPage
 		@screenshot = 'PageTwo.png'
 	end		
 end
-

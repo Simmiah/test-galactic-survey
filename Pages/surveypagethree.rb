@@ -26,6 +26,5 @@ class SurveyPageThree < MainPage
 		
 		# Screenshot Filename
 		@screenshot = 'PageThree.png'
-	end
-	
+	end	
 end

@@ -91,6 +91,5 @@ module DataStuff
 			puts 'Page Two Text Data not same as entered. Fail.'
 			puts ''
 		end
-		
 	end	
 end

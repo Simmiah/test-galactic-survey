@@ -5,5 +5,4 @@ require './functions/datafunctions.rb'
 class MainPage
 	include PageFunctions
 	include DataStuff
-	
 end
