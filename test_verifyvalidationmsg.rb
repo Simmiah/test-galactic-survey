@@ -5,10 +5,10 @@
 # This script verifies survey page one's required field validation message 
 # Run on testcase 5 in data
 
-require '.\pages\mainpage.rb'
-require '.\pages\surveypageone.rb'
-require '.\pages\surveypagetwo.rb'
-require '.\pages\surveypagethree.rb'
+require './pages/mainpage.rb'
+require './pages/surveypageone.rb'
+require './pages/surveypagetwo.rb'
+require './pages/surveypagethree.rb'
 
 # Make all Page Objects
 b = MainPage.new

@@ -129,5 +129,3 @@ module PageFunctions
 		@browser.screenshot.save(screenshot)
 	end
 end
-
-

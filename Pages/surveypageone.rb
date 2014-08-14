@@ -1,6 +1,6 @@
 # Survey Page One Class contains instance variables for all major items to be tested
 # If any changes occur on page, this class should be the main place to edit code
-require '.\pages\mainpage.rb'
+require './pages/mainpage.rb'
 
 class SurveyPageOne < MainPage
 
@@ -16,7 +16,7 @@ class SurveyPageOne < MainPage
 		# print('Enter Filename for Page One: ')
 		# @filename = gets()
 		# Filename for Data
-		@filename = '.\data\surveypageonedata.csv'
+		@filename = './data/surveypageonedata.csv'
 	
 		# Run ParseCSVtoVar method when instantiating new Page Object
 		self.ParseCSVtoVar(@testcase)
@@ -74,7 +74,3 @@ class SurveyPageOne < MainPage
 		end
 	end
 end
-
-
-
-
