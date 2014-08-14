@@ -1,15 +1,3 @@
-To use this repository just download and run driver.bat file on windows or run driver.rb from mac.  You can also run each test
-script individually.  
-
-For information on Watir go to this link:  http://watir.com/
-
-TESTED FORM
-
-Google Survey Url: https://docs.google.com/forms/d/1l7XjlXQRnyNk-qMUhuprYs9uKpg9fyOQNXZDpHHeUH8/viewform
-Google Survey Spreadsheet: https://docs.google.com/spreadsheet/ccc?key=0AqmxR49Mk_X6dHVYbmpPaUVSUmxqNVg5clc0ajdib0E#gid=0
-
-Run driver.rb to test the form
-=======
 Works with Ruby 2.0.0-p353.  Gems are managed by bundler, otherwise install the gems as listed in the gemfile.
 
 For information on Watir go to this link:  http://watir.com/
